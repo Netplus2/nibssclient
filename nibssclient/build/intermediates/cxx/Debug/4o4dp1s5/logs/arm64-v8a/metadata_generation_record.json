@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1597951212
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx/Debug/4o4dp1s5/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1266436026
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx/Debug/4o4dp1s5/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1126587846
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx/Debug/4o4dp1s5/arm64-v8a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 399128324
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2120971966
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx/Debug/4o4dp1s5/arm64-v8a\u0027",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1964155641
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild /Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk \\\n  APP_ABI\u003darm64-v8a \\\n  NDK_ALL_ABIS\u003darm64-v8a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-21 \\\n  NDK_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5/obj \\\n  NDK_LIBS_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -962173668
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk \\\n  APP_ABI\u003darm64-v8a \\\n  NDK_ALL_ABIS\u003darm64-v8a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-21 \\\n  NDK_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5/obj \\\n  NDK_LIBS_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1159887255
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 616512017
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file /Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -620464804
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1813608713
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx/Debug/4o4dp1s5/arm64-v8a/metadata_generation_command.txt",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2054313488
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -495245133
+  }
+]

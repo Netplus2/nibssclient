@@ -1,0 +1,8 @@
+com.netpluspay.nibssclient
+raw config
+raw nibss_cert_live
+raw nibss_cert_test
+string error_connecting_to_server
+string reversal_approved
+string reversal_unsuccessful
+string userMD

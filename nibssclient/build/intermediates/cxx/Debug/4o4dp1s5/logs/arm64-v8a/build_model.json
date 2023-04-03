@@ -1,0 +1,145 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx/Debug/4o4dp1s5/arm64-v8a",
+  "soFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5/obj/local/arm64-v8a",
+  "soRepublishFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a",
+  "abiPlatformVersion": 21,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx",
+      "intermediatesBaseFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates",
+      "intermediatesFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx",
+      "gradleModulePathName": ":nibssclient",
+      "moduleRootFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient",
+      "moduleBuildFile": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build.gradle",
+      "makeFile": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary",
+        "sdkFolder": "/Users/adebayooloyede/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "system",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/.cxx/Debug/4o4dp1s5/prefab/arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "4o4dp1s5x444w3m4u2w215h2t3m56482q56d2c315m5t4x304ke2q535v6h",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-21",
+    "NDK_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5/obj",
+    "NDK_LIBS_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5/lib"
+  ],
+  "intermediatesParentFolder": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Debug/4o4dp1s5"
+}

@@ -1,0 +1,55 @@
+{
+  "buildFiles": [
+    "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk",
+      "APP_ABI\u003dx86",
+      "NDK_ALL_ABIS\u003dx86",
+      "NDK_DEBUG\u003d0",
+      "APP_PLATFORM\u003dandroid-21",
+      "NDK_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/obj",
+      "NDK_LIBS_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk",
+    "APP_ABI\u003dx86",
+    "NDK_ALL_ABIS\u003dx86",
+    "NDK_DEBUG\u003d0",
+    "APP_PLATFORM\u003dandroid-21",
+    "NDK_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/obj",
+    "NDK_LIBS_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "module-credentials-release-x86": {
+      "artifactName": "module-credentials",
+      "buildCommandComponents": [
+        "/Users/adebayooloyede/Library/Android/sdk/ndk/21.3.6528147/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/src/main/jni/Application.mk",
+        "APP_ABI\u003dx86",
+        "NDK_ALL_ABIS\u003dx86",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/obj",
+        "NDK_LIBS_OUT\u003d/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/lib",
+        "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/obj/local/x86/libmodule-credentials.so"
+      ],
+      "abi": "x86",
+      "output": "/Users/adebayooloyede/Desktop/SAdebayoAndroid/NibssClientLibrary/nibssclient/build/intermediates/cxx/Release/171w5f5d/obj/local/x86/libmodule-credentials.so",
+      "runtimeFiles": []
+    }
+  }
+}
