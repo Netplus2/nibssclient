@@ -1,7 +1,0 @@
-int raw config 0x0
-int raw nibss_cert_live 0x0
-int raw nibss_cert_test 0x0
-int string error_connecting_to_server 0x0
-int string reversal_approved 0x0
-int string reversal_unsuccessful 0x0
-int string userMD 0x0
